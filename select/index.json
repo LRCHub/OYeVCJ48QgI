@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "知識",
+  "base_artist": "色々な十字架",
+  "createdAt": "2025-12-30T07:55:46.564487Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "知識",
+      "artist": "色々な十字架",
+      "has_synced": false,
+      "path": "select/pl_01_知識_色々な十字架.txt"
+    }
+  ]
+}
